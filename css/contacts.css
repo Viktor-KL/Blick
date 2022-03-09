@@ -1,0 +1,134 @@
+
+
+/* начало  contacts*/
+
+.main_header{
+	background: #7fa100;
+	padding: 10px 0;
+	margin-bottom: 50px;
+}
+.contacts_title{
+	color: #000;
+
+}
+.contacts_infoText{
+	font-size: 20px;
+}
+.contacts_infoPhone{
+	color: black;
+}
+.contacts_infoPhone:hover{
+	text-decoration: none;
+	color: black;
+}
+.contacts_infoButtonPlan{
+	color: #fff;
+	background: #000	;
+	border: 1px solid #000;
+	padding: 10px 30px 13px 30px;
+	line-height: 43px;
+	font-size: 18px;
+	font-weight: 400;
+	border-radius: 30px;
+	text-decoration: none;
+	margin-right: 50px;
+
+}
+.contacts_infoButtonSend{
+	color: #000;
+	border: 1px solid #000;
+	padding: 10px 30px 13px 30px;
+	line-height: 43px;
+	font-size: 18px;
+	font-weight: 400;
+	background: none;
+	border-radius: 30px;
+	text-decoration: none;
+
+}
+.contacts_infoButtonPlan:hover{
+	background: none;
+	border: 1px solid #000;
+	color: #000;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.contacts_infoButtonSend:hover{
+	background: #000;
+	border: 1px solid #000;
+	color: #fff;
+	text-decoration: none;
+	transition: background .5s ease;	
+}
+.contacts_buttonsWrapper{
+	margin-top: 50px;
+}
+.fake_hr{
+	width: 74%;
+	border-bottom: 5px solid #000;
+}
+.contacts_optTitleBlock{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 0px 40px 0;
+}
+.contacts_optTel{
+	color: black;
+}
+.contacts_optTel:hover{
+	color: black;
+}
+.contacts_optImg{
+	width: 10%;
+}
+.contacts_optTitle{
+	color: black;
+	text-decoration: underline black;
+
+}
+.contacts_optTitle:hover{
+	text-decoration: none;
+	color: black;
+}
+
+/* начало recall */
+
+.recall{
+	background: #4b4a4a20;
+	margin-top: 50px;
+}
+.recall_inputs{
+	border: none;
+    color: lightgray;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+}
+.recall_titleWrapper{
+	margin-bottom: 30px;
+}
+.recall_textarea{
+	border: none;
+	margin-top: 20px;
+	padding-left: 20px;
+}
+.recall_sendButton{
+	color: #fff;
+	background: #000	;
+	border: 1px solid #000;
+	padding: 10px 50px 13px 50px;
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration: none;
+}
+.recall_sendButton:hover{
+	background: none;
+	border: 1px solid #000;
+	color: #000;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.recall_sendButtonWrapper{
+	margin-top: 50px;
+}

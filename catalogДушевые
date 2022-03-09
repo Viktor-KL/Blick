@@ -1,0 +1,58 @@
+<div class="container text-center">
+		<div class="row">
+			<div class="col-md-12">
+				<h2 class="main_title">21-Душевые ограждения</h2>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower1.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">22-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower2.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">23-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower3.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">24-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower4.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">25-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower5.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">26-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower6.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">27-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower7.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">28-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower9.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">29-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="img/shower10.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">30-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4">
+				<img src="img/shower11.jpg" alt="" class="main_images">
+				<h3 class="main_imagesTitle">31-*Душ 1*</h3>
+			</div>
+			<div class="col-md-4">
+				<img src="" alt="" class="main_images">
+				<h3 class="main_imagesTitle"></h3>
+			</div>
+			<div class="col-md-4 main_imgBlock">
+				<img src="" alt="" class="main_images">
+				<h3 class="main_imagesTitle"></h3>
+			</div>
+			<div class="col-md-12 main_buyButtonWrapper">
+				<a href="calculator.html" class="main_buyButton">32-Рассчитать стоимость</a>
+			</div>
+		</div>
+	</div>

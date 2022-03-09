@@ -1,0 +1,174 @@
+
+
+/* начало  contacts*/
+
+
+textarea{
+	width: 100%;
+}
+.contacts_infoText{
+	font-size: 20px;
+}
+.contacts_infoPhone{
+	color: black;
+}
+.contacts_infoPhone:hover{
+	text-decoration: none;
+	color: black;
+}
+.contacts_infoButtonPlan{
+	color: white;
+	background: none;
+	border-radius: 30px;
+	border: 1px solid #fff;
+	padding: 13px 45px 16px 45px;
+	margin-right: 40px;
+
+}
+.contacts_infoButtonSend{
+	color: #fff;
+	background: none;
+	border-radius: 30px;
+	border: 1px solid #fff;
+	padding: 13px 45px 16px 45px;
+
+}
+.contacts_infoButtonPlan:hover{
+	background: #fff;
+	border: 1px solid #fff;
+	color: black;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.contacts_infoButtonSend:hover{
+	background: white;
+	border: 1px solid #fff;
+	color: black;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.contacts_buttonsWrapper{
+	margin-top: 50px;
+}
+.fake_hr{
+	width: 74%;
+	border-bottom: 5px solid #fff;
+}
+.contacts_optTitleBlock{
+	display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 100px 0px 40px 0;
+}
+.contacts_optTel{
+	color: black;
+}
+.contacts_optTel:hover{
+	color: black;
+}
+.contacts_optImg{
+	width: 10%;
+}
+.contacts_optTitle{
+	color: white;
+	text-decoration: underline white;
+
+}
+.contacts_optTitle:hover{
+	text-decoration: none;
+	color: black;
+}
+
+/* начало recall */
+
+.recall{
+	background: #E8E8E8;
+	margin-top: 50px;
+}
+.recall_inputs{
+	border: none;
+    color: lightgray;
+    width: 100%;
+    padding: 15px;
+    margin-top: 20px;
+}
+.recall_titleWrapper{
+	margin-bottom: 30px;
+}
+.recall_textarea{
+	border: none;
+	margin-top: 20px;
+	padding-left: 20px;
+}
+.recall_sendButton{
+	background: none;
+	color: black;
+	padding: 15px 70px;
+	font-size: 20px;
+	border: 2px solid black;
+}
+.recall_sendButton:hover{
+	background: black;
+	color: #fff;
+	text-decoration: none;
+	transition: background .5s ease;
+	border: 1px solid #7fa100;
+}
+.recall_sendButtonWrapper{
+	margin-top: 50px;
+}
+
+/* начало footer */
+
+footer{
+	background: #000;
+	padding: 50px 0;
+}
+.networkIcon{
+	width: 10%;
+}
+.networkIconInsta{
+	width: 8%;
+	margin: 10px 10px;
+}
+.networkIconSap{
+	width: 9%;
+}
+.footer_num{
+	font-size: 36px;
+}
+.navBlock2{
+	border-top: 1px solid white;
+	padding-top: 30px;
+	
+}
+.footer_button{
+	color: white;
+	padding: 0 35px;
+	color: white;
+	font-size: 24px;
+	padding: 10px 70px;
+	border: 1px solid white;
+}
+.footer_button:hover{
+	color: black;
+	background: white;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.footer_input{
+	color: white;
+	border: 1px solid white;
+	background: none;
+	padding: 10px 200px 10px 20px;
+	margin: 50px 0px 50px;
+}
+.footer_footer{
+	margin-top: 30px;
+}
+.footer_footTitle{
+	margin-top: 20px;
+}
+.footer_footTitle{
+	color: white;
+}

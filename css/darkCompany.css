@@ -1,0 +1,61 @@
+
+.company_subTitle{
+	color: white;
+	margin: 0 auto;
+}
+
+/* начало footer */
+
+footer{
+	background: #000;
+	padding: 50px 0;
+	width: 100%;
+}
+.networkIcon{
+	width: 10%;
+}
+.networkIconInsta{
+	width: 8%;
+	margin: 10px 10px;
+}
+.networkIconSap{
+	width: 9%;
+}
+.footer_num{
+	font-size: 36px;
+}
+.navBlock2{
+	border-top: 1px solid white;
+	padding-top: 30px;
+	
+}
+.footer_button{
+	color: white;
+	padding: 0 35px;
+	color: white;
+	font-size: 24px;
+	padding: 10px 70px;
+	border: 1px solid white;
+}
+.footer_button:hover{
+	color: black;
+	background: white;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.footer_input{
+	color: white;
+	border: 1px solid white;
+	background: none;
+	padding: 10px 200px 10px 20px;
+	margin: 50px 0px 50px;
+}
+.footer_footer{
+	margin-top: 30px;
+}
+.footer_footTitle{
+	margin-top: 20px;
+}
+.footer_footTitle{
+	color: white;
+}

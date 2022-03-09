@@ -1,0 +1,280 @@
+.vertical-line{
+	height: 1px;
+	width: 100%;
+	background: radial-gradient(50% 50% at 50% 50%, #000000 29.17%, rgba(255, 255, 255, 0) 100%);
+}
+
+.smallContainer{
+	width: 70% !important;
+}
+.smallerContainer{
+	width: 69% !important;
+}
+.header_butWallperImg{
+	width: 70%;
+}
+.navBlock{
+
+	padding-bottom: 20px;
+	
+}
+.navBlock2{
+	border-top: 1px solid #fff;
+	margin-top: 10px;
+	padding-bottom: 20px;
+	
+}
+.header_line{
+	height: 10px;
+	background: black;
+}
+.adaptiveHeader{
+	display: none;
+}
+/* mobile menu */
+
+.closeImg{
+	width: 10%;
+}
+.mobileMenu{
+	display: none;
+}
+.carousel-control-next, .carousel-control-prev{
+	background: #00000036 !important;
+}
+.menu_buttons{
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	font-weight: 600;
+}
+
+.menu_buttons:after{
+	display: block;
+    content: "";
+    height: 2px;
+    width: 0%;
+    background-color: black;
+    transition: width .5s ease-in-out;
+}
+.menu_buttons:hover{
+	color: black;
+	font-weight: 700;
+}
+.menu_buttons:hover:after,
+.menu_buttons:focus:after{
+	width: 100%;
+}
+ul{
+	list-style: none;
+}
+.activeMenu{
+		margin-left: -15% !important;
+		transition: .5s;
+
+	}
+.mobileMenu {
+    position: fixed;
+    height: 100vh;
+    background: #ffffff;
+    top: 0;
+    width: 60%;
+    margin-left: -60%;
+    transition: .5s;
+    z-index: 500;
+    padding: 30px 0px 0px 0;
+}
+	.mobileMenu a{
+	margin-top: 10%;
+    display: block;
+    color: #000;
+    text-decoration: none;
+    font-size: 16px;
+	}
+
+hr{
+	border-bottom: 1px solid gray;
+	width: 100%;
+	opacity: 70%;
+}
+img {
+	max-width: 100%;
+}
+.titles {
+	font-weight: 700;	
+}
+.subtitles{
+	color: #4b4a4a95;
+}
+.padding_blocks {
+	padding: 100px 0;
+}
+
+/* начало header */
+
+header {
+	padding: 20px 0;
+}
+.header_title {
+	font-size: 20px;
+	font-weight: 700;
+}
+.header_logoImg {
+	width: 50%;
+}
+.header_buttons {
+	color: #000;
+	border: 1px solid #000;
+	padding: 10px 40px 13px 40px;
+	line-height: 63px;
+	font-size: 18px;
+	font-weight: 400;
+	background: none;
+	border-radius: 30px;
+	text-decoration: none;
+
+}
+.header_buttons:hover{
+	background: #000;
+	text-decoration: none;
+	color: white;
+	transition: background .4s ease;
+}
+.header_phoneButton{
+	letter-spacing: 2px;
+	color: black;
+	text-decoration: none;
+	border-bottom: 2px dashed;
+	font-size: 20px;
+}
+.header_phoneButton:hover{
+	color: black;
+	text-decoration: none;
+}
+.header_links{
+	color: black;
+	font-size: 24px;
+	font-weight: 400;
+
+}
+.header_links:hover {
+	text-decoration: none;
+	border-top: 5px solid #000;
+	color: black;
+
+}  
+.wave_menu:hover .buy_waveMenu{
+	display: block !important;
+}
+
+.buy_waveMenu{
+	z-index: 500;
+	border: solid;
+	border-width: 1px;
+    display: none;
+    background: #fff;
+    position: absolute;
+ 	width: 500px;
+ 	height: 60px;
+ 	padding-top: 10px;
+
+}
+.wave_punkts{
+	color: black;
+	text-decoration: underline;
+}
+.wave_punkts:hover{
+	text-decoration: none;
+	color: black;
+}
+
+/* начало main */
+
+.main_header{
+	background: #000;
+	padding: 10px 0;
+	margin-bottom: 50px;
+}
+
+.main_title{
+	font-weight: 700;
+	margin-bottom: 30px;
+}
+.main_imgBlock{
+	margin-bottom: 30px;
+}
+
+.main_buyButton{
+	color: #000;
+	border: 1px solid #000;
+	padding: 10px 30px 13px 30px;
+	line-height: 43px;
+	font-size: 18px;
+	font-weight: 400;
+	background: none;
+	border-radius: 30px;
+	text-decoration: none;
+
+}
+
+.main_buyButton:hover{
+	background: #000;
+	text-decoration: none;
+	color: white;
+	transition: background .4s ease;	
+}
+
+.main_buyButtonWrapper{
+	margin: 20px 0px 100px 0;
+}
+
+.catalog_blocks{
+	padding-bottom: 50px;
+}
+
+/* начало footer */
+
+footer{
+	background: #1f1f1f;
+	padding: 50px 0;
+}
+.networkIcon{
+	width: 10%;
+}
+.networkIconInsta{
+	width: 8%;
+	margin: 10px 10px;
+}
+.networkIconSap{
+	width: 9%;
+}
+.footer_num{
+	font-size: 36px;
+}
+.footer_button{
+	color: white;
+	padding: 0 35px;
+	color: white;
+	font-size: 24px;
+	padding: 10px 70px;
+	border: 1px solid white;
+}
+.footer_button:hover{
+	color: black;
+	background: white;
+	text-decoration: none;
+	transition: background .5s ease;
+}
+.footer_input{
+	color: white;
+	border: 1px solid white;
+	background: none;
+	padding: 10px 200px 10px 20px;
+	margin: 50px 0px 50px;
+}
+.footer_footer{
+	margin-top: 30px;
+}
+.footer_footTitle{
+	margin-top: 20px;
+}

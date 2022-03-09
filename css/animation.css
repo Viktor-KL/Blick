@@ -1,0 +1,33 @@
+@keyframes emerging_menu {
+	0% {
+		margin-top: -25px;
+    	opacity: 0%;
+	}
+	100% {
+		margin-top: 0px;
+		opacity: 100%;
+	}
+}
+.menu_animate--AboutMe{
+	animation: emerging_menu 1s;
+}
+
+.menu_animate--Frontend{
+	animation: emerging_menu 1.5s;
+}
+.menu_animate--Portfolio{
+	animation: emerging_menu 2s;
+}
+.menu_animate--Python{
+	animation: emerging_menu 2.4s;
+}
+.menu_animate--Contacts{
+	animation: emerging_menu 2.8s;
+}
+.menu_row{
+	height: 20px;
+}
+.carousel{
+	width: 50%;
+	margin: 0 auto;
+}
